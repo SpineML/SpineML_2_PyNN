@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# This is (going to be) the script which will convert the SpineML model
+# described by an experiment.xml into PyNN python and then will execute
+# that PyNN python using a PyNN backend
+
+# It's analogous to the script "convert_script_s2b" in SpineML_2_BRAHMS.
